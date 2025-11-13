@@ -12,3 +12,9 @@ A simple desktop app that generates personalized letters using Tkinter and TTKBo
    ```bash
    git clone https://github.com/<your-username>/MailMergeApp.git
    cd MailMergeApp
+2. Download dependencies
+   ```bash
+      pip install -r requirements.txt
+3. Run the app
+   ```bash
+      python mail_merge.py
